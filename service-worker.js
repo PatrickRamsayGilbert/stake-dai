@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stake-dai/precache-manifest.3aa745d36bbadcb0c2ff681b0e583884.js"
+  "/stake-dai/precache-manifest.edceb246c0d1c446d8655523ba45f51d.js"
 );
 
 self.addEventListener('message', (event) => {

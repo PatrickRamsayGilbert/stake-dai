@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3f2fa56277e76bd8415bfcc6453f56b",
+    "revision": "adf3c28724bea024d1f3eb7e2bd4b9e4",
     "url": "/stake-dai/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stake-dai/static/css/2.25d2a862.chunk.css"
   },
   {
-    "revision": "e8d1669ee10df01aa03a",
+    "revision": "666c59366a48d9a2c370",
     "url": "/stake-dai/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stake-dai/static/js/2.ebc77ced.chunk.js"
   },
   {
-    "revision": "e8d1669ee10df01aa03a",
-    "url": "/stake-dai/static/js/main.6d3e7bec.chunk.js"
+    "revision": "666c59366a48d9a2c370",
+    "url": "/stake-dai/static/js/main.bee23b21.chunk.js"
   },
   {
     "revision": "5d18e6a7c83bc361833e",
