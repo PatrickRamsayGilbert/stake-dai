@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stake-dai/static/css/main.34de6062.chunk.css",
-    "main.js": "/stake-dai/static/js/main.bee23b21.chunk.js",
-    "main.js.map": "/stake-dai/static/js/main.bee23b21.chunk.js.map",
+    "main.js": "/stake-dai/static/js/main.4475a5e7.chunk.js",
+    "main.js.map": "/stake-dai/static/js/main.4475a5e7.chunk.js.map",
     "runtime-main.js": "/stake-dai/static/js/runtime-main.ffb703cf.js",
     "runtime-main.js.map": "/stake-dai/static/js/runtime-main.ffb703cf.js.map",
     "static/css/2.25d2a862.chunk.css": "/stake-dai/static/css/2.25d2a862.chunk.css",
     "static/js/2.ebc77ced.chunk.js": "/stake-dai/static/js/2.ebc77ced.chunk.js",
     "static/js/2.ebc77ced.chunk.js.map": "/stake-dai/static/js/2.ebc77ced.chunk.js.map",
     "index.html": "/stake-dai/index.html",
-    "precache-manifest.edceb246c0d1c446d8655523ba45f51d.js": "/stake-dai/precache-manifest.edceb246c0d1c446d8655523ba45f51d.js",
+    "precache-manifest.4d5052fce3f79c90a6441a7bd1e07c77.js": "/stake-dai/precache-manifest.4d5052fce3f79c90a6441a7bd1e07c77.js",
     "service-worker.js": "/stake-dai/service-worker.js",
     "static/css/2.25d2a862.chunk.css.map": "/stake-dai/static/css/2.25d2a862.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/stake-dai/static/css/main.34de6062.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.25d2a862.chunk.css",
     "static/js/2.ebc77ced.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.bee23b21.chunk.js"
+    "static/js/main.4475a5e7.chunk.js"
   ]
 }
