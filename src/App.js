@@ -100,7 +100,7 @@ class App extends Component {
                 <h1>Welcome! to my Stake-Dai demo</h1>
         <p>You Are: {this.state.accounts}</p>
         <p className="lead col-md-8 mx-auto">This is built using truffle, react, and 3 different smart contracts in solidity. Placed on the Ropsten network.
-        You can stake and unstake fake Dai with MetaMask. After the confirmations be sure to refresh the page.<br></br> The rewards button only works if you are the owner of this app. It will fail if you try. In a "real" app it would only be seen by the owner. Just for Demonstration purposes.</p>
+        Only owner can stake and unstake fake Dai with MetaMask. Currently this is for my learning.<br></br> The rewards button only works if you are the owner of this app. It will fail if you try. In a "real" app it would only be seen by the owner. Just for Demonstration purposes.</p>
         <table className="table text-muted table-borderless">
           <thead>
             <tr>
